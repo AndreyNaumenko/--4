@@ -1,0 +1,15 @@
+C:\Users\rolla\Desktop\ДЗ обучение\C#\Практическое-задание-урок-4\Problem-25\bin\Debug\net6.0\Problem-25.exe
+C:\Users\rolla\Desktop\ДЗ обучение\C#\Практическое-задание-урок-4\Problem-25\bin\Debug\net6.0\Problem-25.deps.json
+C:\Users\rolla\Desktop\ДЗ обучение\C#\Практическое-задание-урок-4\Problem-25\bin\Debug\net6.0\Problem-25.runtimeconfig.json
+C:\Users\rolla\Desktop\ДЗ обучение\C#\Практическое-задание-урок-4\Problem-25\bin\Debug\net6.0\Problem-25.dll
+C:\Users\rolla\Desktop\ДЗ обучение\C#\Практическое-задание-урок-4\Problem-25\bin\Debug\net6.0\Problem-25.pdb
+C:\Users\rolla\Desktop\ДЗ обучение\C#\Практическое-задание-урок-4\Problem-25\obj\Debug\net6.0\Problem-25.csproj.AssemblyReference.cache
+C:\Users\rolla\Desktop\ДЗ обучение\C#\Практическое-задание-урок-4\Problem-25\obj\Debug\net6.0\Problem-25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolla\Desktop\ДЗ обучение\C#\Практическое-задание-урок-4\Problem-25\obj\Debug\net6.0\Problem-25.AssemblyInfoInputs.cache
+C:\Users\rolla\Desktop\ДЗ обучение\C#\Практическое-задание-урок-4\Problem-25\obj\Debug\net6.0\Problem-25.AssemblyInfo.cs
+C:\Users\rolla\Desktop\ДЗ обучение\C#\Практическое-задание-урок-4\Problem-25\obj\Debug\net6.0\Problem-25.csproj.CoreCompileInputs.cache
+C:\Users\rolla\Desktop\ДЗ обучение\C#\Практическое-задание-урок-4\Problem-25\obj\Debug\net6.0\Problem-25.dll
+C:\Users\rolla\Desktop\ДЗ обучение\C#\Практическое-задание-урок-4\Problem-25\obj\Debug\net6.0\refint\Problem-25.dll
+C:\Users\rolla\Desktop\ДЗ обучение\C#\Практическое-задание-урок-4\Problem-25\obj\Debug\net6.0\Problem-25.pdb
+C:\Users\rolla\Desktop\ДЗ обучение\C#\Практическое-задание-урок-4\Problem-25\obj\Debug\net6.0\Problem-25.genruntimeconfig.cache
+C:\Users\rolla\Desktop\ДЗ обучение\C#\Практическое-задание-урок-4\Problem-25\obj\Debug\net6.0\ref\Problem-25.dll
